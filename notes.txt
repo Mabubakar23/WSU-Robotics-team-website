@@ -1,0 +1,27 @@
+<div class="col-md-4">
+            <div class="contact-widget wow bounceInLeft">
+              <i class="fa fa-map-marker fa-4x"></i>
+              <h5>Main Office</h5>
+              <p>
+                5050 Anthony Wayne Drive,<br />Detroit MI 48219 USA
+              </p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="contact-widget wow bounceInUp">
+              <i class="fa fa-phone fa-4x"></i>
+              <h5>Call</h5>
+              <p>
+                +1 (313) 557 0619
+              </p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="contact-widget wow bounceInRight">
+              <i class="fa fa-envelope fa-4x"></i>
+              <h5>Email us</h5>
+              <p>
+                roboticsclub@wayne.edu
+              </p>
+            </div>
+          </div>
